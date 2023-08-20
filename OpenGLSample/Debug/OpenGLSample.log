@@ -1,0 +1,21 @@
+﻿  Source.cpp
+d:\temp\snhu2\openglsample\openglsample\shader.h(57): warning C4101: 'e': unreferenced local variable
+d:\temp\snhu2\openglsample\openglsample\source.cpp(196): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\temp\snhu2\openglsample\openglsample\source.cpp(231): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(232): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(239): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(240): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(247): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(248): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(255): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(256): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(264): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(265): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\temp\snhu2\openglsample\openglsample\source.cpp(367): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\temp\snhu2\openglsample\openglsample\source.cpp(368): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\temp\snhu2\openglsample\openglsample\source.cpp(372): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\temp\snhu2\openglsample\openglsample\source.cpp(373): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\temp\snhu2\openglsample\openglsample\source.cpp(375): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\temp\snhu2\openglsample\openglsample\source.cpp(376): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\temp\snhu2\openglsample\openglsample\source.cpp(385): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> d:\temp\snhu2\OpenGLSample\Debug\OpenGLSample.exe

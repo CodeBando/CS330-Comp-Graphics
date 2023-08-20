@@ -1,0 +1,24 @@
+﻿  glad.c
+  shader.cpp
+  Source.cpp
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(436,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(437,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(441,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(442,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(444,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(445,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(452,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(564,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(574,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(701,60): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(702,66): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(703,64): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(816,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(823,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(824,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(1117,42): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(1598,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\OpenGLSample\Source.cpp(1634,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\mband\Documents\SNHU\Classes\08 - Comp Graphics\Project\FinalProject\x64\Debug\FinalProject.exe
